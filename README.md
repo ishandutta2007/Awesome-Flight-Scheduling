@@ -59,9 +59,9 @@ Below is a curated summary of leading commercial flight operations suites, sorte
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source tools, virtual airline platforms, route calculators, and research libraries, sorted descending by GitHub star count.
+Curated list of open-source tools, virtual airline platforms, route calculators, and research libraries, sorted descending by GitHub Stars_Count.
 
-| Repository 📦 | Stars ⭐️ | Description 📝 |
+| Repository 📦 | GitHub_Stars ⭐️ | Description 📝 |
 | :--- | :--- | :--- |
 | **[OpenFlights](https://github.com/jpatokal/openflights)** | [<img src="https://img.shields.io/github/stars/jpatokal/openflights?style=social&color=white" alt="OpenFlights Stars"/>](https://github.com/jpatokal/openflights/stargazers) | Open dataset and tool for flight logging, airport database mapping, and route visualization worldwide. |
 | **[YAAMS (Yet Another Airline Management System)](https://github.com/YAAMSOrg/yaams-server)** | [<img src="https://img.shields.io/github/stars/YAAMSOrg/yaams-server?style=social&color=white" alt="YAAMS Stars"/>](https://github.com/YAAMSOrg/yaams-server/stargazers) | Open-source server platform for virtual airline management, PIREP tracking, and community flight operations. |
