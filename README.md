@@ -59,7 +59,7 @@ Below is a curated summary of leading commercial flight operations suites, sorte
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source tools, virtual airline platforms, route calculators, and research libraries, sorted descending by GitHub Stars_Count.
+Curated list of open-source tools, virtual airline platforms, route calculators, and research libraries, sorted descending by GitHub_Stars_Count.
 
 | Repository 📦 | GitHub_Stars ⭐️ | Description 📝 |
 | :--- | :--- | :--- |
